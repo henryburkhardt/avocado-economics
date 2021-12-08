@@ -1,0 +1,49 @@
+state,region
+colorado,West
+arizona,West
+idaho,West
+montana,West
+nevada,West
+new mexico,West
+oregon,West
+utah,West
+washington,West
+wyoming,West
+california,California
+north dakota,Plains
+south dakota,Plains
+minnesota,Plains
+nebraska,Plains
+iowa,Plains
+kansas,Plains
+missouri,Plains
+texas,SouthCentral
+oklahoma,SouthCentral
+arkansas,SouthCentral
+louisiana,SouthCentral
+wisconsin,GreatLakes
+illinois,GreatLakes
+indiana,GreatLakes
+michigan,GreatLakes
+ohio,GreatLakes
+mississippi,Southeast
+alabama,Southeast
+georgia,Southeast
+florida,Southeast
+kentucky,Midsouth
+virginia,Midsouth
+tennessee,Midsouth
+north carolina,Midsouth
+south carolina,Midsouth
+maryland,Midsouth
+west virginia,Northeast
+delaware,Northeast
+new jersey,Northeast
+connecticut,Northeast
+rhode island,Northeast
+maine,Northeast
+vermont,Northeast
+new hampshire,Northeast
+pennsylvania,Northeast
+massachusetts,Northeast
+new york,Northeast
